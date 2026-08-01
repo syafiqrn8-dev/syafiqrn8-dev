@@ -8,7 +8,7 @@
   <!-- NAMA & SUBJUDUL -->
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=A+Junior+Web+Developer" alt="A Junior Web Developer" />
   
-  <br/><br/>
+  <br/>
 
   <!-- 2. ANIMASI KARAKTER -->
   <p align="center">
