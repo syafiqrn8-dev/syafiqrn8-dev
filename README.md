@@ -86,9 +86,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&center=true&width=400&lines=%F0%9F%93%AC+Connect+With+Me" alt="Connect Header" />
   <br/><br/>
   
-  <!-- Badge Instagram (Sudah Diperbaiki) -->
+  <!-- Badge-->
+  <a href="mailto:syafiqrn8-dev@gmail.com">
+  <img src="https://img.shields.io/badge/-syafiqrn8@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.instagram.com/nafisxs/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-@nafisxs-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syafiq-raihan-nafis/">
+  <img src="https://img.shields.io/badge/-syafiq+raihan+nafis-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- <a href="https://github.com/syafiqrn8-dev/syafiqrn8-dev">
+  <img src="https://komarev.com/ghpvc/?username=syafiqrn8-dev&color=blue&label=Profile%20Views"/>
+  </a> -->
+  <a href="https://github.com/syafiqrn8-dev">
+  <img src="https://img.shields.io/github/followers/syafiqrn8-dev?label=GitHub%20Followers"/>
   </a>
   
 
