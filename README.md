@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/badge/-@nafisxs-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/syafiq-raihan-nafis/">
-  <img src="https://img.shields.io/badge/-syafiq+raihan+nafis-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-syafiqraihannafis-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white"/>
   </a>
   <!-- <a href="https://github.com/syafiqrn8-dev/syafiqrn8-dev">
   <img src="https://komarev.com/ghpvc/?username=syafiqrn8-dev&color=blue&label=Profile%20Views"/>
