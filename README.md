@@ -26,7 +26,7 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=50%&lines=%E2%9A%94%EF%B8%8F+Coding+Session" alt="Coding Quest Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%E2%9A%94%EF%B8%8F+Coding+Session" alt="Coding Quest Header" />
       <br/>
       <p><i>I code, therefore I break things, then fix them. 🕹️</i></p>
       <ul>
@@ -37,7 +37,7 @@
       <p>📍 Based in <b>Koja, North Jakarta, DKI Jakarta, IndonesiaIndonesia</b></p>
     </td>
     <td valign="top" width="50%">
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=50%&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Tech+Stack" alt="Tech Stack Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Tech+Stack" alt="Tech Stack Header" />
       <br/><br/>
       <!-- BADGE TECH STACK -->
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
