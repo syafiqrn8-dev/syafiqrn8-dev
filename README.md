@@ -59,33 +59,24 @@
 ---
 
 <!-- 4. PROYEK & QUEST  -->
-<!-- 4. PROYEK & QUEST -->
 <table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%97%BA%EF%B8%8F+Main+Projects" alt="Main Projects Header" />
-      </th>
-      <th width="50%" align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%93%93+Current+Quests" alt="Current Quests Header" />
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" width="50%">
-        <p><b>🎮 Project Alpha</b><br/>UI Web Company Profile interaktif berbasis HTML, CSS & Bootstrap<br/>Admin Management System berbasis PHP & JavaScript</p>
-        <p><b>💼 Web Portfolio</b><br/>Personal website showcase</p>
-      </td>
-      <td valign="top" width="50%">
-        <p>☑️ Mastering SQL Fundamentals</p>
-        <p>⏳ Mastering JavaScript ES6+</p>
-        <p>⏳ Build System Information for Company</p>
-        <p>⏳ Learn FrontEnd Framework ReactJS</p>
-        <p>⏳ Get First Junior Developer Job</p>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%97%BA%EF%B8%8F+Main+Projects" alt="Main Projects Header" />
+      <br/>
+      <p><b>🎮 Project Alpha</b><br/>UI Web Company Profile interaktif berbasis HTML, CSS & Bootstrap<br/>Admin Management System berbasis PHP & JavaScript</p>
+      <p><b>💼 Web Portfolio</b><br/>Personal website showcase</p>
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%93%93+Current+Quests" alt="Current Quests Header" />
+      <br/>
+      <p>☑️ Mastering SQL Fundamentals</p>
+      <p>⏳ Mastering JavaScript ES6+</p>
+      <p>⏳ Build System Information for Company</p>
+      <p>⏳ Learn FrontEnd Framework ReactJS</p>
+      <p>⏳ Get First Junior Developer Job</p>
+    </td>
+  </tr>
 </table>
 
 ---
