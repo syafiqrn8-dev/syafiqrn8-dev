@@ -86,7 +86,7 @@
   <!-- Baris 1: Judul Animasi -->
   <tr>
     <td colspan="2" valign="top">
-      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%E2%9A%94%EF%B8%8F+Github+Stats" alt="Coding Quest Header" />
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%93%8A+Github+Stats" alt="Coding Quest Header" />
     </td>
   </tr>
   <tr>
