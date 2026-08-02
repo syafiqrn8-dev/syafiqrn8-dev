@@ -81,6 +81,26 @@
 
 ---
 
+<!-- GITHUB STATS -->
+<table width="100%">
+  <!-- Baris 1: Judul Animasi -->
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%E2%9A%94%EF%B8%8F+Github+Stats" alt="Coding Quest Header" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.shion.dev/api?username=syafiqrn8-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="100%" height="195" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=syafiqrn8-dev&theme=tokyonight&hide_border=false" width="100%" height="195" />
+    </td>
+  </tr>
+</table>
+
+---
+
 <!-- 5. KONTAK -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&center=true&width=400&lines=%F0%9F%93%AC+Connect+With+Me" alt="Connect Header" />
@@ -93,8 +113,8 @@
   <a href="https://www.instagram.com/nafisxs/">
   <img src="https://img.shields.io/badge/-@nafisxs-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/syafiq-raihan-nafis/">
-  <img src="https://img.shields.io/badge/-syafiqraihannafis-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/syafiq-raihan-nafis-1425303ab/">
+  <img src="https://img.shields.io/badge/-SyafiqRaihanNafis-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white"/>
   </a>
   <!-- <a href="https://github.com/syafiqrn8-dev/syafiqrn8-dev">
   <img src="https://komarev.com/ghpvc/?username=syafiqrn8-dev&color=blue&label=Profile%20Views"/>
@@ -102,7 +122,6 @@
   <a href="https://github.com/syafiqrn8-dev">
   <img src="https://img.shields.io/github/followers/syafiqrn8-dev?label=GitHub%20Followers"/>
   </a>
-  
 
 </div>
 
