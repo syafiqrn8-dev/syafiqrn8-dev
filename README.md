@@ -82,9 +82,9 @@
 ---
 
 <!-- GITHUB STATS -->
-<table width="100%">
+<!-- <table width="100%"> -->
   <!-- Baris 1: Judul Animasi -->
-  <tr>
+  <!-- <tr>
     <td colspan="2" valign="top">
       <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%93%8A+Github+Stats" alt="Coding Quest Header" />
     </td>
@@ -97,7 +97,7 @@
       <img src="https://streak-stats.demolab.com/?user=syafiqrn8-dev&theme=tokyonight&hide_border=false" width="100%" height="195" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
