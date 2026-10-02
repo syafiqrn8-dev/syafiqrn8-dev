@@ -34,7 +34,7 @@
         <li>⚙️ <b>Back-End</b> - Building APIs & managing databases.</li>
         <li>🤝 <b>Seeking Guild</b> - Ready for new adventures & opportunities!</li>
       </ul>
-      <p>📍 Based in <b>Koja, North Jakarta, DKI Jakarta, IndonesiaIndonesia</b></p>
+      <p>📍 Based in <b>Koja, North Jakarta, DKI Jakarta, Indonesia</b></p>
     </td>
     <td valign="top" width="50%">
       <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=38BDF8&width=300&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Tech+Stack" alt="Tech Stack Header" />
